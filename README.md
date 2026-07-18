@@ -19,7 +19,7 @@ I write about frontend performance, JavaScript fundamentals, and applied AI — 
 
 ## Elsewhere
 
-- Portfolio: _add your live portfolio link once deployed_
-- LinkedIn: [Damilola Oniyide](https://linkedin.com/in/damilola-oniyide-9a013a205)
+- Portfolio: [Damilola Oniyide Portfolio](https://damilola-oniyide.vercel.app)
+- LinkedIn: [Damilola Oniyide](https://linkedin.com/in/damilola-oniyide)
 - X: [@1_and_only_lola](https://x.com/1_and_only_lola)
 - Email: damilolaoniyide11@gmail.com
