@@ -11,7 +11,7 @@ Software engineer with a frontend lean, building full-stack projects end to end.
 
 ## Stack
 
-`JavaScript` `TypeScript` `Python` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `Tailwind CSS` `PostgreSQL` `MongoDB` `Redis` `Firebase`
+`JavaScript` `TypeScript` `Python` `Java` `React` `Next.js` `Node.js` `Express.js` `FastAPI` `Tailwind CSS` `SQL` `MongoDB`  `Firebase`
 
 ## Writing
 
