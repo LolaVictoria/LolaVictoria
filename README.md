@@ -4,8 +4,9 @@ Software engineer with a frontend lean, building full-stack projects end to end.
 
 ## What I've built
 
+- **Alaba Market** — Designed and built a full-stack e-commerce platform supporting separate buyer and seller workflows using Spring Boot and React.
+- **Vendor Hub API** - Built and deployed a RESTful API for managing vendors and products, implementing CRUD operations and vendor-product relationships using .NET Core.
 - **LectureMerge** — a full-stack tool that merges lecture audio transcriptions with PDF notes into one searchable study document. Uses Whisper for transcription and sentence-transformers with cosine similarity to align spoken content with written notes.
-- **Alaba Market** — an e-commerce platform 
 - **Yungdoyens LMS** — a learning management system for course enrollment, with a child dashboard and progress tracking. Its "try a free class" feature tripled registrations.
 - **CDSS Platform** — a clinical decision support system with real-time sessions and clinician/patient dashboards. 
 
